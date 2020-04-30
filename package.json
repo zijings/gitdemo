@@ -1,0 +1,25 @@
+{
+  "name": "gitdemo",
+  "version": "1.0.0",
+  "description": "there is a gitdemo of jiazhann",
+  "main": "consoledir.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zijings/gitdemo.git"
+  },
+  "author": "jiazhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zijings/gitdemo/issues"
+  },
+  "homepage": "https://github.com/zijings/gitdemo#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.6"
+  }
+}
